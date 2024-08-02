@@ -1,0 +1,5 @@
+//mutations
+export const VIEW_ALL_PRODUCT='VIEW_ALL_PRODUCT'
+
+//getters
+export const PRODUCT_IN_VIEW_ALL_PRODUCT='PRODUCT_IN_VIEW_ALL_PRODUCT'
