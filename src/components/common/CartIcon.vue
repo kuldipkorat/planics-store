@@ -28,7 +28,7 @@ export default {
   name: "CartIcon",
   props: {
     disabledBtn: {
-      Tyep: String,
+      Type: String,
       required: false,
       default: "",
     },
